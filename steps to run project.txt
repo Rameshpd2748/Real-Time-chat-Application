@@ -1,0 +1,7 @@
+   steps
+  1.open new tab of vscode
+  2.click on open Folder
+  3.select the folder of websocket
+  4.select the server.js file
+  5.open terminal using play button
+  6.type npm run nodemon to run server in the terminal
